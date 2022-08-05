@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saltyee
-- 👀 I’m interested in QA
+- 👀 I’m interested in SDET (Software Development Engineer in Testing)
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on i don't know
 - 📫 How to reach me on my linkedin  https://www.linkedin.com/in/muhammadiqbalpahlewi/
